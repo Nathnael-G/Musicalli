@@ -1,3 +1,4 @@
 # Musicalli
 
-A Music streaming website.
+A Music streaming website!
+
