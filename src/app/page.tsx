@@ -1,3 +1,4 @@
+import { ModeToggle } from "@/components/darkmode";
 import Image from "next/image";
 
 export default function Home() {
@@ -98,6 +99,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
+      <ModeToggle />
     </div>
   );
 }
